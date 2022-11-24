@@ -1,0 +1,140 @@
+.action{
+    width: 10%;
+}
+
+*{
+   outline: none;
+}
+
+table i{
+    padding: 10px;
+}
+
+.heart {
+    font-size: 30px;
+
+  
+ }
+
+ body{
+    background-color: antiquewhite;
+ }
+
+ .heart1{
+    color: red;
+ }
+
+ .heart2{
+    color: red;
+ }
+
+ .width25{
+    width: 200px;
+ }
+
+.width500{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.CloseDock{
+   display: flex ;
+   justify-content: flex-end;
+   padding:  10px 40px;
+   font-size: 30px;
+   color: red;
+}
+
+
+.serchclear{
+   border-radius: 0 25px 25px 0;
+   margin-left: -35px
+}
+
+.showwidth{
+   width: 700px;
+}
+.showwidth_search{
+
+   width: 500px;
+}
+
+.homeheart{
+   color: red;
+    text-align: center;
+    font-size: 20px;
+}
+
+/* .navbar1{
+   text-align: center;
+   background-color: black;
+   color: white;
+   padding: 5px;
+} */
+
+.header{
+   display: flex;
+   justify-content:space-between;
+   background-color: rgb(164, 164, 164);
+   color: white;
+   border-radius: 5px;
+
+}
+
+.page{
+   display: flex;
+    justify-content: center;
+    margin: 10px;
+}
+
+.dockdesign{
+   background-color: rgb(251, 242, 231);
+   height: 100vh;
+}
+
+.form-control{
+   border-radius: 20px;
+    padding: 10px;
+    outline: none !important;
+    
+}
+
+form p {
+   color: red;
+   text-align: center;
+}
+
+form input::placeholder{
+   font-style: bold !important;
+color: rgb(36, 36, 36) !important;
+font-weight: 500;
+
+}
+
+
+.nav-tabs{
+   display: flex;
+   justify-content: space-around;
+   margin: 15px;
+;
+}
+
+.tab-content button{
+   font-size: 20px;
+   color: black;
+   width: 150px;
+   border-radius: 10px !important;
+}
+
+
+
+
+.nav-tabs .nav-link.active {
+   color: rgb(255, 255, 255);
+   background-color: rgb(78, 57, 36);
+   border: none;
+}
+
+
+
